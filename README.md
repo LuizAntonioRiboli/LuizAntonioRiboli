@@ -4,7 +4,6 @@
 <h3 align="left">About me:</h3>
 
 - Computer science Grad CS
-- iOS/Flutter Dev- SwiftUI, Combine, Flutter, MVVM, ARKit. 
 
 <h3 align="left">Languages and Tools:</h3>
 
