@@ -8,6 +8,13 @@
 <p align="left">
 
 
+
+<div>
+<a> <h4 align="left"> -> Dart </h4> 
+<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
+</div>
+
+
 <a> <h4 align="left"> -> Dart </h4> 
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
 
@@ -20,7 +27,7 @@
 
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Personal Hobbies:</h3>
 <a> <h4 align="left"> -> Blender </h4> 
  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
 </a> 
