@@ -3,7 +3,7 @@
 
 <h3 align="left">About me:</h3>
 
-- Computer science Graduation - Brazil/PUCRS.
+- Computer Science Graduation - Brazil/PUCRS.
 - iOS and Flutter developer.
 
 <br> </br>
@@ -20,7 +20,7 @@ and <b> SwiftUI </b>
   
   - Experience with Combine, MVVM and ARKit.
   - Full app development using MVVM architecture.
-  - I really love SwiftUI. I've already built a complete SwiftUI app from scratch, using MVVM architecture. Would really like to work with it again.
+  - I really love SwiftUI. I've already built a complete SwiftUI app from scratch using MVVM architecture. Would really like to work with it again.
  </li>
     <br> </br>
 <!-- FLUTTER AND DART -->
@@ -40,10 +40,10 @@ and <b> SwiftUI </b>
 <h3 align="left">Personal Hobbies:</h3>
 <ul>
   <li> 
-Blender
+    <b> Blender </b>
  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="60" height="60"/> </a>
 
-   - Currently working on short horror films. This includes not only modeling, texturing and rendering stuff on blender, but also video editing, audio editing for sound effects and handling camera effects. For post editing, I use DaVinci Resolve.
+   - Currently working on short horror films. This includes not only modeling, texturing and rendering stuff on blender, but also video editing, audio editing for sound effects and handling camera effects. For video editing, I use DaVinci Resolve.
  </li>
 </ul>
 
