@@ -7,25 +7,11 @@
 
 <p align="left">
 
-<ul>
-  <div style="width: 100%; overflow: hidden;">
-     <div style="width: 600px; float: left;"> 
-      <li><a> <h4 align="left">Dart</h4> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>  
-     </li> 
-     </div>
-     <div style="margin-left: 620px;"> 
-     <li><
-     <h4 align="left">Flutter</h4>
-     <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-     </li> 
-     </div>
-</div>
+<a> <h4 align="left">Dart</h4> 
+<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>  
 
-
-
-</ul>
-
-
+ <h4 align="left">Flutter</h4>
+ <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
 
 <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a> 
 
