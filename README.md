@@ -15,10 +15,12 @@
 
 <a> <h4 align="left"> -> Swift </h4> 
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> 
+
 </a>
 
 
-<a> <h4 align="left"> - Personal Hobbies </h4> 
+
+<h3 align="left">Languages and Tools:</h3>
 <a> <h4 align="left"> -> Blender </h4> 
  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
 </a> 
