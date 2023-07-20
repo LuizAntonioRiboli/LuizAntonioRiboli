@@ -1,15 +1,21 @@
-<h1 align="left">Hi, I'm Luiz! 👋</h1
-                                  
-    
-<h3 align="left">About me:</h3>
+<h1 align="left">Hello there, I'm Luiz! Welcome to my GitHub page! </h1> 
 
+
+<img src="https://developer.apple.com/assets/elements/icons/brandmark/apple-developer-brandmark-i.svg" alt="swift" width="130" height="30"/>
+<img src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg" alt="swift" width="100" height="30"/>
+
+------------------------------------------
+
+                                  
+<h3 align="left">About me:</h3>
 
 - 💻 Computer Science Graduation - Brazil/PUCRS.
 - 🍎 Apple Developer Academy 2019-2021 - Brazil/PUCRS. 
 - 👨‍💻 iOS and Flutter developer.
-- 🎧 Music lover.
+- 🎧 Music lover
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Triforce.svg/1280px-Triforce.svg.png" width="20" height="20"/> Gamer
 
-<br> </br>
+------------------------------------------
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -38,15 +44,17 @@ and <b> SwiftUI </b>
  </li> 
 </ul>
 
-<br> </br>
+------------------------------------------
 
 <h3 align="left">Personal Hobbies:</h3>
 <ul>
   <li> 
     <b> Blender </b>
- <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="60" height="60"/> </a>
+ <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="65" height="65"/> </a>
 
-   - Currently working on short horror films. This includes not only modeling, texturing and rendering stuff on blender, but also video editing, audio editing for sound effects and handling camera effects. For video editing, I use DaVinci Resolve.
+   - Currently working on short horror films. Modeling, texturing and rendering stuff on blender.
+   - Video editing, audio editing for sound effects and handling camera effects. For video editing, I use DaVinci Resolve.
+ <a href="https://www.blackmagicdesign.com/br/products/davinciresolve" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" alt="daVinciResolve" width="40" height="40"/> </a>
  </li>
 </ul>
 
