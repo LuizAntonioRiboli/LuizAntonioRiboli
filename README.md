@@ -1,7 +1,7 @@
 <h1 align="left">Hello there, I'm Luiz! Welcome to my GitHub page! </h1> 
 
 
-<img src="https://developer.apple.com/assets/elements/icons/brandmark/apple-developer-brandmark-i.svg" alt="swift" width="130" height="30"/>
+<img src="https://developer.apple.com/assets/elements/icons/brandmark/apple-developer-brandmark-i.svg" alt="swift" width="140" height="30"/>
 <img src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg" alt="swift" width="100" height="30"/>
 
 ------------------------------------------
