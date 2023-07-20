@@ -1,10 +1,13 @@
-<h1 align="left">Hi, I'm Luiz! 👋</h1>
-
-
+<h1 align="left">Hi, I'm Luiz! 👋</h1
+                                  
+    
 <h3 align="left">About me:</h3>
 
-- Computer Science Graduation - Brazil/PUCRS.
-- iOS and Flutter developer.
+
+- 💻 Computer Science Graduation - Brazil/PUCRS.
+- 🍎 Apple Developer Academy 2019-2021 - Brazil/PUCRS. 
+- 👨‍💻 iOS and Flutter developer.
+- 🎧 Music lover.
 
 <br> </br>
 
@@ -48,10 +51,6 @@ and <b> SwiftUI </b>
 </ul>
 
 </a> 
-
- 
-
-
 
 
 
