@@ -60,7 +60,7 @@ and <b> SwiftUI </b>
      - Video editing.
        - Camera effects (VHS, shake, blur) and basic edits (exposure, colors, sharpen, and so on).
        - Currently using DaVinci Resolve
-<a href="https://www.blackmagicdesign.com/br/products/davinciresolve" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" alt="daVinciResolve" width="30" height="30"/> </a> to edit all stuff.
+<a href="https://www.blackmagicdesign.com/br/products/davinciresolve" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" alt="daVinciResolve" width="30" height="30"/> </a> to edit renders and all other stuff.
      - Audio editing.
        - Currently using Audacity <a href="https://www.audacityteam.org/" target="_blank" rel="noreferrer"> <img src="https://www.audacityteam.org/wp-content/themes/wp_audacity/img/logo.png" alt="audacity" width="30" height="30"/> </a>. Simple and awesome to use.
  </li>
