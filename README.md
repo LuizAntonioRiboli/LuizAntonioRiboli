@@ -11,7 +11,7 @@
 
 - 💻 Computer Science Graduation - Brazil/PUCRS.
 - 🍎 Apple Developer Academy 2019-2021 - Brazil/PUCRS. 
-- 👨‍💻 iOS and Flutter developer.
+- 👨‍💻 iOS developer. Currently learning a lot of Flutter.
 - 🎧 Music lover.
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Triforce.svg/1280px-Triforce.svg.png" width="20" height="20"/> Gamer.
 
