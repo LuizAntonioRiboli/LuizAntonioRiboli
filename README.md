@@ -17,7 +17,7 @@
 
 🎧 Music lover
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Triforce.svg/1280px-Triforce.svg.png" width="20" height="20"/> Gamer
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Triforce.svg/1280px-Triforce.svg.png" width="20" height="19"/> Gamer
 
 ------------------------------------------
 
