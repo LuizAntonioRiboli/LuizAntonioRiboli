@@ -54,7 +54,7 @@ and <b> SwiftUI </b>
 <ul>
   <li> 
     <b> Blender </b>
- <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="70" height="70"/> </a>
+ <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="60" height="60"/> </a>
 
    - Currently working on short horror films. Modeling, texturing and rendering all on Blender.
      - Video editing.
