@@ -44,7 +44,7 @@ and <b> SwiftUI </b>
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
 
   - Full app development using MVVM architecture.
-  - Experience with iOS deploy and some experience with Android deploy.
+  - Great experience with iOS deploy and good experience with Android deploy.
  </li> 
 </ul>
 
