@@ -61,7 +61,7 @@ and <b> SwiftUI </b>
        - Camera movement using live views of renders with iOS/iPadOS to capture the most realistic movement possible.
        - Camera effects (VHS, blur), basic edits (exposure, sharpen) and color grading.
        - Currently using DaVinci Resolve
-<a href="https://www.blackmagicdesign.com/br/products/davinciresolve" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" alt="daVinciResolve" width="30" height="30"/></a> to edit renders and all other stuff.
+<a href="https://www.blackmagicdesign.com/br/products/davinciresolve" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" alt="daVinciResolve" width="30" height="30"/></a> to composite everything.
      - Audio editing:
        - Currently using Audacity <a href="https://www.audacityteam.org" target="_blank" rel="noreferrer"> <img src="https://www.audacityteam.org/_astro/Audacity_Logo.63b57726.svg" alt="audacity" width="30" height="30"/></a> which is simple and awesome to use.
  </li>
