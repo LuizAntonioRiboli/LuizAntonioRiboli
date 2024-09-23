@@ -33,7 +33,7 @@ and <b> SwiftUI </b>
   
   - Experience with Combine, MVVM and ARKit.
   - Full app development using MVVM architecture.
-  - I really love SwiftUI. I've already built a complete SwiftUI app from scratch using MVVM architecture. Would really like to work with it again.
+  - I enjoy working with SwiftUI. I've already built a complete SwiftUI app from scratch using MVVM architecture. Would love to work with it again.
  </li>
     <br> </br>
 <!-- FLUTTER AND DART -->
