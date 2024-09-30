@@ -9,9 +9,9 @@
                                   
 <h3 align="left">About me:</h3>
 
-💻 Computer Science Graduation - Brazil/PUCRS
+💻 Computer Science Graduation
 
-🍎 Apple Developer Academy 2019-2021 - Brazil/PUCRS
+🍎 Apple Developer Academy
 
 👨‍💻 iOS developer. Currently learning a lot of Flutter
 
